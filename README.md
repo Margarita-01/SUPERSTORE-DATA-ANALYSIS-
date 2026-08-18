@@ -3,6 +3,9 @@ Project Overview
 This project analyzes sales performance for J.Space Superstores from 2014 to 2017. The analysis focuses on sales, profit, discounts, product performance, regional performance, state-level performance, and yearly profit trends.
 An interactive Excel dashboard was developed to transform the sales data into clear and actionable business insights.
 
+## 📊 Dashboard Preview
+![](Screenshot%20(10).png)
+
 Key Insights
 1. Overall Business Performance
 The business generated approximately $2.30 million in total sales during the four-year period, with approximately $286,397 in total profit.
