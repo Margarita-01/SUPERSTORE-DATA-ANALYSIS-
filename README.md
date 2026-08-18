@@ -6,7 +6,7 @@ An interactive Excel dashboard was developed to transform the sales data into cl
 ## 📊 Dashboard Preview
 ![](Screenshot%20(10).png)
 
-Key Insights
+## 📌Key Insights
 1. Overall Business Performance
 The business generated approximately $2.30 million in total sales during the four-year period, with approximately $286,397 in total profit.
 This indicates that the business generated substantial revenue while maintaining a positive overall profit position.
@@ -37,7 +37,7 @@ Further investigation could identify the factors driving stronger performance in
 Profit fluctuated considerably between 2014 and 2017.
 The trend shows several periods of sharp increases and decreases rather than consistent growth. This suggests that management should investigate the causes of major changes in profitability, including product mix, discounts, sales volume, and regional performance.
 
-Recommendations
+## Recommendations
 Based on the analysis, the following actions are recommended:
 Focus on highly profitable sub-categories such as Copiers, Phones, and Accessories while maintaining strong performance in other profitable categories.
 Investigate high-performing states to understand the factors contributing to their stronger sales and profitability.
